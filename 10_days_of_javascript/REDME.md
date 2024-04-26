@@ -1,1 +1,1 @@
-10 challenges of javascript.
+10 challenges of javascript
